@@ -4,7 +4,7 @@ const prefix = '1'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`1play `,"")
+client.user.setGame(``,"")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
