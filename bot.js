@@ -48,7 +48,6 @@ const gif = require("gif-search");
 
 
 /////////////////////////
-////////////////////////
 
 client.on('message', async msg =>{
 	if (msg.author.bot) return undefined;
